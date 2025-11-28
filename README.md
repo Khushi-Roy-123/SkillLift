@@ -5,7 +5,7 @@ SkillLift is a comprehensive, AI-powered web application designed to empower, su
 
 Beyond just career growth, SkillLift recognizes the importance of holistic success. It combines professional mentorship, gamified learning, and community support with essential **life balance tools** to help users thrive personally and professionally.
 
-![SkillLift Application](https://stem-verse-1.onrender.com)
+Live Link : ["https://stem-verse-1.onrender.com"]
 
 ## ✨ Features
 

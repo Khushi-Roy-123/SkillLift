@@ -47,7 +47,6 @@ To enable the AI features, you need to configure your environment variables.
 
 ```env
 API_KEY=your_actual_api_key_here
-MONGODB_URI=your_mongodb_connection_string_here
 ```
 
 *Note: The `MONGODB_URI` is currently a placeholder. This version of SkillLift runs entirely in the browser using LocalStorage for data persistence. A backend service is required to utilize MongoDB.*

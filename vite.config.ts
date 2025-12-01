@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => {
       server: {
         port: 3000,
         host: '0.0.0.0',
-        allowedHosts: ['https://skilllift-fg4e.onrender.com']
+        allowedHosts: ['skilllift-fg4e.onrender.com']
       },
       plugins: [react()],
       define: {

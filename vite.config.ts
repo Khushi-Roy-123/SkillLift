@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => {
       server: {
         port: 3000,
         host: '0.0.0.0',
-        allowedHosts: ['stem-verse-1.onrender.com', 'https://skilllift-1-xedi.onrender.com']
+        allowedHosts: ['stem-verse-1.onrender.com', 'skilllift-1-xedi.onrender.com']
       },
       plugins: [react()],
       define: {
